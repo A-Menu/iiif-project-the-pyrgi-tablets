@@ -1,0 +1,13 @@
+{
+  "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in A-Menu/iiif-project-the-pyrgi-tablets project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json",
+    "label" : "The Pyrgi Tablets"
+  } ]
+}
