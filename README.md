@@ -3,7 +3,7 @@
 This project was created for the course "English: The Language of Computer Science" given by Mr. Edward J. Gray (Ph. D.) at the Ecole nationale des chartes for the "master 2 technologies numériques appliquées à l'Histoire". The project followed Glen Robson's [IIIF Tutorial](https://training.iiif.io/iiif-online-workshop/index.html) and this repository was created thanks to Workbench.
 
 
-The link of the annotated manifest can be directly found here : https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi_annotated.json 
+**The link of the annotated manifest can be directly found here : https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi_annotated.json **
 
 
 
@@ -12,6 +12,6 @@ The images used are private photographs taken at the Villa Giulia in Rome during
 
 ![Tablet_1_2_3 LD](https://user-images.githubusercontent.com/92547721/154564145-ceee1e97-22db-4ad8-ab7f-a010f042b628.JPG)
 
-
+<div align="center">The Pyrgi Tablets, c. 500 BCE, Rome, Villa Giulia (Ariane Menu, 2021).</div>
 
 
