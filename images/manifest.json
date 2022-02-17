@@ -1,0 +1,66 @@
+{
+  "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in A-Menu/iiif-project-the-pyrgi-tablets project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 5568,
+    "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3/canvas/",
+    "label" : {
+      "none" : [ "Tablet_1_2_3" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 174,
+              "height" : 116
+            }, {
+              "width" : 348,
+              "height" : 232
+            }, {
+              "width" : 696,
+              "height" : 464
+            }, {
+              "width" : 1392,
+              "height" : 928
+            }, {
+              "width" : 2784,
+              "height" : 1856
+            }, {
+              "width" : 5568,
+              "height" : 3712
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5568,
+            "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3712
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5568,
+          "id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3712
+        },
+        "target" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/images/Tablet_1_2_3/canvas/"
+      } ]
+    } ],
+    "height" : 3712
+  } ]
+}
