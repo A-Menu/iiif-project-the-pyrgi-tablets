@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Pyrgi Tablets are the oldest historical source from pre-Roman Italy. Their discovery in 1964 by Massimo Pallottino was a major event for Etruscan archaeology.\nThe tablets are notably remarkable for their bilingualism. Indeed, two were written in Etruscan (on the edges of the picture), and one in Phoenician (in the middle).\nBeyond illustrating the bonds which then united Etruscans and Phoenicians, this discovery greatly helped our understanding of the Etruscan language.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Pyrgi Tablets are the oldest historical source from pre-Roman Italy. Their discovery in 1964 by Massimo Pallottino was a major event for Etruscan archaeology.</p>\n<p>The tablets are notably remarkable for their bilingualism. Indeed, two were written in Etruscan (on the edges of the picture), and one in Phoenician (in the middle).</p>\n<p>Beyond illustrating the bonds which then united Etruscans and Phoenicians, this discovery greatly helped our understanding of the Etruscan language.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T16:27:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645115260416",
+    "dcterms:modified" : "2022-02-17T17:41:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1218,575,96,143"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1265.99704,718.17695c0,-31.85812 15.92907,-63.71625 47.78719,-95.57437c0,-26.39213 -21.39505,-47.78719 -47.78719,-47.78719c-26.39213,0 -47.78719,21.39505 -47.78719,47.78719c31.85812,31.85812 47.78719,63.71625 47.78719,95.57437z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"pin_3920ad7e-5a7b-4418-8b89-5db97e393887\" fill-opacity=\"0.43\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The first and second tablets tell the same event without being a literal translation.\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">They both mention the foundation of a temple and its dedication to the goddess Uni (Astarte in the Phoenician version) by Thefarie Velianas.\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">Velianas is designated as the King of Caere &ndash; Pyrgi was Caere's harbour &ndash; in the Phoenician version. The Phoenician tablet also gives us the reason behind Velianas' gift; he wishes to thank the goddess for his ascent to power three years ago.\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">&nbsp;\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The short inscription on the third tablet mentions rituals performed by Thefarie Velianas in the same place.\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">&nbsp;\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The place has been identified with the sanctuary's oldest of the two temples (B). The tablets were found in the small zone between them.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The first and second tablets tell the same event without being a literal translation.</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">They both mention the foundation of a temple and its dedication to the goddess Uni (Astarte in the Phoenician version) by Thefarie Velianas.</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">Velianas is designated as the King of Caere &ndash; Pyrgi was Caere's harbour &ndash; in the Phoenician version. The Phoenician tablet also gives us the reason behind Velianas' gift; he wishes to thank the goddess for his ascent to power three years ago.</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">&nbsp;</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The short inscription on the third tablet mentions rituals performed by Thefarie Velianas in the same place.</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">&nbsp;</p>\n<p lang=\"en-GB\" style=\"font-weight: normal; line-height: 150%; margin-bottom: 0cm;\" align=\"justify\">The place has been identified with the sanctuary's oldest of the two temples (B). The tablets were found in the small zone between them.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T16:08:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645114109184",
+    "dcterms:modified" : "2022-02-17T17:42:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2685,575,96,143"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2732.97587,718.546c0,-31.85812 15.92907,-63.71625 47.78719,-95.57436c0,-26.39213 -21.39505,-47.78719 -47.78719,-47.78719c-26.39213,0 -47.78719,21.39505 -47.78719,47.78719c31.85812,31.85812 47.78719,63.71625 47.78719,95.57436z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"pin_d56e7e76-8d3a-43e5-9182-f7af5669b37c\" fill-opacity=\"0.43\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The archaeologists discovered the tablets carefully folded and buried in a container. The marks of the foldings are still visible all over them.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The archaeologists discovered the tablets carefully folded and buried in a container. The marks of the foldings are still visible all over them.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T15:33:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645112016284",
+    "dcterms:modified" : "2022-02-17T16:22:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2154,2283,1144,306"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2321.64771,2327.86953c105.65871,-25.69638 254.70744,-44.8316 404.47845,-44.80874v0v0c149.77101,0.02286 280.24669,17.92356 404.47845,44.80874c124.23176,26.88518 172.51907,67.85301 167.54046,108.17786c-4.97861,40.32485 -63.22314,80.00671 -167.54046,108.17786c-104.31732,28.17115 -254.70744,44.8316 -404.47845,44.80874c-149.77101,-0.02286 -298.92292,-16.72903 -404.47845,-44.80874c-105.55553,-28.07971 -167.51466,-67.53295 -167.54046,-108.17786c-0.0258,-40.64491 61.88175,-82.48148 167.54046,-108.17786z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_f1126904-4345-4d55-ae21-49ef495bb445\" fill-opacity=\"0.43\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The tablets were nailed to a surface as illustrated by the many holes on their edges. Golden nails were also found next to them.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The tablets were nailed to a surface as illustrated by the many holes on their edges. Golden nails were also found next to them.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T15:34:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645112051255",
+    "dcterms:modified" : "2022-02-17T17:39:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=826,2928,321,338"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M872.50338,2977.54234c29.59818,-28.4263 71.35121,-49.5944 113.30658,-49.56911v0v0c41.95537,0.02529 78.50553,19.82771 113.30658,49.56911c34.80105,29.7414 48.32778,75.06156 46.93312,119.67042c-1.39466,44.60886 -17.7107,88.50643 -46.93312,119.67042c-29.22242,31.16399 -71.35121,49.5944 -113.30658,49.56911c-41.95537,-0.02529 -83.7373,-18.50628 -113.30658,-49.56911c-29.56928,-31.06283 -46.92589,-74.70749 -46.93312,-119.67042c-0.00723,-44.96293 17.33494,-91.24412 46.93312,-119.67042z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_8b4646f3-3af2-4292-8eca-0d65c766a1eb\" fill-opacity=\"0.43\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "All tablets are read from right to left, and top to bottom.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>All tablets are read from right to left, and top to bottom.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T16:26:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645115211120",
+    "dcterms:modified" : "2022-02-17T17:42:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4218,571,96,143"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4265.42503,713.98404c0,-31.85812 15.92906,-63.71625 47.78719,-95.57435c0,-26.39214 -21.39505,-47.78719 -47.78719,-47.78719c-26.39214,0 -47.78719,21.39505 -47.78719,47.78719c31.85812,31.85812 47.78719,63.71625 47.78719,95.57435z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"pin_436be37a-4949-4100-9910-74b8c9d66bdc\" fill-opacity=\"0.43\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+    } ]
+  } ],
+  "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
