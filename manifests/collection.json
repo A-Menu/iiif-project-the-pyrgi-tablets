@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json",
     "label" : "The Pyrgi Tablets"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi_annotated.json",
+    "label" : "The Pyrgi Tablets"
   } ]
 }
