@@ -7,7 +7,7 @@ The link of the annotated manifest can be directly found here : https://A-Menu.g
 
 
 
-The images used are private photographs taken at the Villa Giulia of Rome during the Summer of 2021. The Pyrgi Tablets (c. 500 BCE) are three gold sheets discovered in 1964 at Pyrgi during archaeological excavations led by Massimo Pallottino. Written both in Etruscan and in Phoenician, they largely helped our understanding of the Etruscan language.
+The images used are private photographs taken at the Villa Giulia in Rome during the Summer of 2021. The Pyrgi Tablets (c. 500 BCE) are three gold sheets discovered in 1964 at Pyrgi during archaeological excavations led by Massimo Pallottino. Written both in Etruscan and in Phoenician, they largely helped our understanding of the Etruscan language.
 
 
 ![Tablet_1_2_3 LD](https://user-images.githubusercontent.com/92547721/154564145-ceee1e97-22db-4ad8-ab7f-a010f042b628.JPG)
