@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_0.json" ],
   "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/annotations/collection.json",
   "label" : "All annotations loaded in A-Menu/iiif-project-the-pyrgi-tablets project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
