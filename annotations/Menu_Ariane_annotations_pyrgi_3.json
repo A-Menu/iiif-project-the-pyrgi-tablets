@@ -35,10 +35,10 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "𐌍𐌀𐌂·𐌈𐌄 𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄&nbsp;Transcription:Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace&nbsp;Possible translation:When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased",
+      "http://dev.llgc.org.uk/sas/full_text" : "𐌍𐌀𐌂·𐌈𐌄𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄&nbsp;Transcription:Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace&nbsp;Possible translation:When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>𐌍𐌀𐌂·𐌈𐌄 𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄</p><p>&nbsp;</p><p><strong>Transcription:</strong></p><p>Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace</p><p>&nbsp;</p><p><strong>Possible translation:</strong></p><p>When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased</p>"
+      "chars" : "<p>𐌍𐌀𐌂·𐌈𐌄𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄</p><p>&nbsp;</p><p><strong>Transcription:</strong></p><p>Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace</p><p>&nbsp;</p><p><strong>Possible translation:</strong></p><p>When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased</p>"
     }, {
       "http://dev.llgc.org.uk/sas/full_text" : "Velianas",
       "@type" : "oa:Tag",
@@ -86,7 +86,8 @@
       },
       "full" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
     } ]
-  }, {
+  },
+  {
     "resource" : [ {
       "http://dev.llgc.org.uk/sas/full_text" : "𐌅/𐌀𐌂𐌀𐌋·𐌕𐌌𐌉𐌀𐌋·𐌀/𐌅𐌉𐌋𐌙𐌅𐌀𐌋·𐌀𐌌𐌖𐌂/𐌄·𐌐𐌖𐌋𐌖𐌌𐌙𐌅/𐌀·𐌔𐌍𐌖𐌉𐌀𐌘&nbsp;Transcription:V/acal tmial a/vilχval amuc/e pulumχv/a snuiaφ&nbsp;Possible translation:The votives of the temple yearly have been as numerous as the stars",
       "@type" : "dctypes:Text",
@@ -131,7 +132,8 @@
       },
       "full" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
     } ]
-  } ],
-  "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_3.json",
+  }
+  ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/92547721/aeec3de067be56d2568d320437e87570.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
