@@ -1,0 +1,137 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Transcriptions and translations after the <a href=\"https://fr.wikipedia.org/wiki/Lamelles_de_Pyrgi\" target=\"_blank\" rel=\"noopener\">French (inscription) and <a href=\"https://en.wikipedia.org/wiki/Pyrgi_Tablets\" target=\"_blank\" rel=\"noopener\">English (transcription and translation) Wikipedia pages for the Pyrgi Tablets.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Transcriptions and translations after the <a href=\"https://fr.wikipedia.org/wiki/Lamelles_de_Pyrgi\" target=\"_blank\" rel=\"noopener\">French</a> (inscription) and <a href=\"https://en.wikipedia.org/wiki/Pyrgi_Tablets\" target=\"_blank\" rel=\"noopener\">English</a> (transcription and translation) Wikipedia pages for the Pyrgi Tablets.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T17:07:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645117624384",
+    "dcterms:modified" : "2022-02-17T17:15:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=265,368,123,185"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M327.13595,553.11599c0,-41.16211 20.58105,-82.32423 61.74318,-123.48634c0,-34.09981 -27.64337,-61.74318 -61.74318,-61.74318c-34.09981,0 -61.74318,27.64337 -61.74318,61.74318c41.16211,41.16211 61.74318,82.32423 61.74318,123.48634z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_42021f4e-8894-4418-bfb5-e72f91b61afe\" fill-opacity=\"0.1\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "𐌍𐌀𐌂·𐌈𐌄 𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄&nbsp;Transcription:Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace&nbsp;Possible translation:When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>𐌍𐌀𐌂·𐌈𐌄 𐌚𐌀𐌓𐌉𐌄·𐌅𐌄𐌋/𐌉𐌉𐌖𐌍𐌀𐌔·𐌈𐌀𐌌𐌖𐌂𐌄 / 𐌂𐌋𐌄𐌅𐌀·𐌄𐌕𐌖𐌍𐌀𐌋·/𐌌𐌀𐌔𐌀𐌍·𐌕𐌉𐌖𐌓 / 𐌖𐌍𐌉𐌀𐌔·𐌑𐌄𐌋𐌀𐌂𐌄</p><p>&nbsp;</p><p><strong>Transcription:</strong></p><p>Nac Θefarie Vel/iiunas θamuce / cleva etunal / Masan tiur / Unias šelace</p><p>&nbsp;</p><p><strong>Possible translation:</strong></p><p>When Tiberius Velianas had built the statue of the sanctuary [in] the month of Masan, Uni was pleased</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Velianas",
+      "@type" : "oa:Tag",
+      "chars" : "Velianas"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Idol",
+      "@type" : "oa:Tag",
+      "chars" : "Idol"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Temple",
+      "@type" : "oa:Tag",
+      "chars" : "Temple"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Masan",
+      "@type" : "oa:Tag",
+      "chars" : "Masan"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Uni",
+      "@type" : "oa:Tag",
+      "chars" : "Uni"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T17:13:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645117991006",
+    "dcterms:modified" : "2022-02-17T18:24:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=726,811,2215,1221"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M900.67817,1779.1064l-7.44396,253.09463l2047.08895,-104.21544l-29.77584,-1086.81813l-2114.08459,-29.77584l-70.67665,751.83994l178.65504,3.72198l3.72198,193.54296v3.72198z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_7acfdbfb-9811-49f9-ad03-0c792bf72dc6\" fill-opacity=\"0.1\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "𐌅/𐌀𐌂𐌀𐌋·𐌕𐌌𐌉𐌀𐌋·𐌀/𐌅𐌉𐌋𐌙𐌅𐌀𐌋·𐌀𐌌𐌖𐌂/𐌄·𐌐𐌖𐌋𐌖𐌌𐌙𐌅/𐌀·𐌔𐌍𐌖𐌉𐌀𐌘&nbsp;Transcription:V/acal tmial a/vilχval amuc/e pulumχv/a snuiaφ&nbsp;Possible translation:The votives of the temple yearly have been as numerous as the stars",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>𐌅/𐌀𐌂𐌀𐌋·𐌕𐌌𐌉𐌀𐌋·𐌀/𐌅𐌉𐌋𐌙𐌅𐌀𐌋·𐌀𐌌𐌖𐌂/𐌄·𐌐𐌖𐌋𐌖𐌌𐌙𐌅/𐌀·𐌔𐌍𐌖𐌉𐌀𐌘</p><p>&nbsp;</p><p><strong>Transcription:</strong></p><p>V/acal tmial a/vilχval amuc/e pulumχv/a snuiaφ</p><p>&nbsp;</p><p><strong>Possible translation:</strong></p><p>The votives of the temple yearly have been as numerous as the stars</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Offering",
+      "@type" : "oa:Tag",
+      "chars" : "Offering"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Temple",
+      "@type" : "oa:Tag",
+      "chars" : "Temple"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Star",
+      "@type" : "oa:Tag",
+      "chars" : "Star"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92547721",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T17:14:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645118084836",
+    "dcterms:modified" : "2022-02-17T18:25:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=667,1795,2294,1265"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M838.44666,2031.30775l5.35965,-219.74569l-155.42988,-16.07895l-21.4386,267.98255l117.91232,32.15791l-48.23686,718.19324l675.31603,-5.35965l-5.35965,251.9036l1554.29881,-53.59651l-32.15791,-1039.77231l-2052.74636,96.47372z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8e5bc495-5a95-4148-a1cb-d8a9a85bf7d9\" fill-opacity=\"0.1\" fill=\"#ff00ff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
+    } ]
+  } ],
+  "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
