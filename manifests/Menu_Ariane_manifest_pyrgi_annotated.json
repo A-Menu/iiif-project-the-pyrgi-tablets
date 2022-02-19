@@ -1,0 +1,194 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi_annotated.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Pyrgi Tablets",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92547721/3c75b09b4f76b49d1e9d78e4627b2f87/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
+  "metadata" : [ {
+    "label" : "Artist / Maker",
+    "value" : "Unknown"
+  }, {
+    "label" : "Date",
+    "value" : "c. 500 BCE"
+  }, {
+    "label" : "Culture",
+    "value" : "Etruscan"
+  }, {
+    "label" : "Production place",
+    "value" : "Cerveteri"
+  }, {
+    "label" : "Provenance",
+    "value" : "Pyrgi (Santa Severa)"
+  }, {
+    "label" : "Medium",
+    "value" : "Gold"
+  }, {
+    "label" : "Technique",
+    "value" : "Engraved leaf"
+  }, {
+    "label" : "Dimensions",
+    "value" : "19 × 9 cm"
+  }, {
+    "label" : "Language",
+    "value" : [ "Etruscan", "Phoenician" ]
+  }, {
+    "label" : "Collection",
+    "value" : "National Etruscan Museum of the Villa Giulia, Rome"
+  }, {
+    "label" : "Location",
+    "value" : "Room 13a"
+  }, {
+    "label" : "Inventory number",
+    "value" : "None"
+  }, {
+    "label" : "Acquisition date",
+    "value" : "1964"
+  }, {
+    "label" : "Source",
+    "value" : "<a href=\"https://www.museoetru.it/works/lamine-doro-da-pyrgi\" target=\"_blank\" rel=\"noopener\">National Etruscan Museum of the Villa Giulia"
+  } ],
+  "description" : [ {
+    "@value" : "Photographs of the Pyrgi Tablets (c. 500 BCE) from the Villa Giulia Museum, Rome. The three golden sheets were discovered in 1964 at Pyrgi during archaeological excavations led by Massimo Pallottino.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Ariane Menu",
+  "sequences" : [ {
+    "@id" : "http://e9cee228-fd4c-45da-a89a-58f5f384d525",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0",
+      "@type" : "sc:Canvas",
+      "label" : "The Pyrgi Tablets",
+      "height" : 3712,
+      "width" : 5568,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://45c55bdb-c21d-485a-b6b4-4321a1880ba6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3712,
+          "width" : 5568
+        },
+        "on" : "http://34684f6b-c159-4aca-90c0-69a35c8373b0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://a-menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_0.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the introduction"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://eca6401e-3753-490a-832c-cb97e611c4fd",
+      "@type" : "sc:Canvas",
+      "label" : "Tablet 1",
+      "height" : 5568,
+      "width" : 3712,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5ebaf6a4-ee51-4e5e-8ea6-c1d24db2dc6d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5568,
+          "width" : 3712
+        },
+        "on" : "http://eca6401e-3753-490a-832c-cb97e611c4fd"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://a-menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the Tablet 1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d21ef092-09ed-405b-80d7-eca38c03f567",
+      "@type" : "sc:Canvas",
+      "label" : "Tablet 2",
+      "height" : 5568,
+      "width" : 3712,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7948cd72-d99a-43b7-a72b-ce5d3eab743d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5568,
+          "width" : 3712
+        },
+        "on" : "http://d21ef092-09ed-405b-80d7-eca38c03f567"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://a-menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the Tablet 2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439",
+      "@type" : "sc:Canvas",
+      "label" : "Tablet 3",
+      "height" : 5568,
+      "width" : 3712,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://75637b99-c5ef-437a-86fb-00c31e98825b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tablets_pyrgi_3",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5568,
+          "width" : 3712
+        },
+        "on" : "http://dc80d107-7b1c-4dcb-981b-fa959ad66439"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://a-menu.github.io/iiif-project-the-pyrgi-tablets/annotations/Menu_Ariane_annotations_pyrgi_3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the Tablet 3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
