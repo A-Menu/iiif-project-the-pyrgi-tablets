@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://A-Menu.github.io/iiif-project-the-pyrgi-tablets/manifests/Menu_Ariane_manifest_pyrgi_annotated.json",
+    "label" : "The Pyrgi Tablets"
+  } ]
 }
